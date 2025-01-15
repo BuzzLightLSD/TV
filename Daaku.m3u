@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:-1, Daaku
-#EXT-X-ALLOW-CACHE:YES
-https://kps-stream-bot-004-18b0e4aa026a.herokuapp.com/dl/6783e3304a0f6f09a1d8ec7e
 #EXTINF:-1, Daaku Mkv
-https://dl.kpsbots.workers.dev/dl/6783e3304a0f6f09a1d8ec7e?type=.mkv
+https://dl.kpsbots.workers.dev/dl/6783e3304a0f6f09a1d8ec7e
 #EXTINF:-1, Sookshma
 https://cdn.boostpng.com/Sookshmadarshini_(2024)_Telugu_700MB.mkv
