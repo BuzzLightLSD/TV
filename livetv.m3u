@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ETV Telugu" tvg-country="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="LOKIIPTV-Entertainment",ETV Telugu
+#EXTINF:-1 tvg-name="ETV Telugu" tvg-country="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Entertainment",ETV Telugu
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/61166353-fa11-4756-8675-f49a13899490/3.m3u8
