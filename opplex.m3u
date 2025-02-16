@@ -3,7 +3,7 @@
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250842
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="TELUGU D2H",ETV PLUS
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250849
-#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" group-title="TELUGU D2H",ETV LIFE
+#EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" ,ETV LIFE
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250850
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="TELUGU D2H",ETV Cinema
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250851
@@ -25,7 +25,7 @@ https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381108
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250841
 #EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="TELUGU D2H",STAR MAA MOVIES FHD
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381117
-#EXTINF:-1 tvg-id="" tvg-name="Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="TELUGU D2H",Maa HD
+#EXTINF:-1 tvg-id="" tvg-name="Maa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Star_Maa_2017_logo.jpg" group-title="TELUGU D2H",Maa HD
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250843
 #EXTINF:-1 tvg-id="" tvg-name="STAR MAA FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="TELUGU D2H",STAR MAA FHD
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381103
