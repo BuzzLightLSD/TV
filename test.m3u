@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" ,ETV
-http://opplex.live:80/02/02/250842?type=m3u8_plus
+http://opplex.live:80/02/02/250842.ts
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" ,ETV PLUS
 http://opplex.live:80/02/02/250849
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" ,ETV LIFE
