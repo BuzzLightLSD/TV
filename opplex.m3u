@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" ,Etv HD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250842
+http://pstlive.run.place/live/x4gspv/pstlive_1973.m3u8
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" ,ETV PLUS
 https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250849
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" ,ETV LIFE
