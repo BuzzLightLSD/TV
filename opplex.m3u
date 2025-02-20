@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" ,Etv HD
-http://pstlive.run.place/live/x4gspv/pstlive_1973.m3u8
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250842
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" ,ETV PLUS
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250849
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250849
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" ,ETV LIFE
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250850
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250850
 #EXTINF:-1 tvg-id="etvcinema.in" tvg-name="ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" ,ETV Cinema
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250851
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250851
 #EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" ,GEMINI movies
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250846
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250846
 #EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="GEMINI comedy" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" ,GEMINI comedy
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250847
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250847
 #EXTINF:-1 tvg-id="geminilife.in" tvg-name="Gemini life" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" ,Gemini life
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250848
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250848
 #EXTINF:-1 tvg-id="geminimusic.in" tvg-name="GEMINI MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" ,GEMINI MUSIC
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250852
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250852
 #EXTINF:-1 tvg-id="" tvg-name="Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" ,Gemini HD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250855
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250855
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TELUGU" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" ,ZEE TELUGU
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250844
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250844
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" ,ZEE CINEMALU HD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381108
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=381108
 #EXTINF:-1 tvg-id="geminitvhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" tvg-name="Maa Movies" tvg-logo="" ,Maa Movies
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250841
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250841
 #EXTINF:-1 tvg-id="" tvg-name="STAR MAA MOVIES FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" ,STAR MAA MOVIES FHD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381117
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=381117
 #EXTINF:-1 tvg-id="" tvg-name="Maa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Star_Maa_2017_logo.jpg" ,Maa HD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250843
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250843
 #EXTINF:-1 tvg-id="" tvg-name="STAR MAA FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" ,STAR MAA FHD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=381103
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=381103
 #EXTINF:-1 tvg-id="maagold.in" tvg-name="STAR MAA GOLD" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" ,STAR MAA GOLD
-https://xtream-pstlive.vercel.app/opplex.m3u8?token=srpd3m&id=250845
+https://xtream-pstlive.vercel.app/opplex.m3u8?token=14a3ddm&id=250845
