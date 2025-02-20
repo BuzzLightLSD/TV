@@ -1,4 +1,7 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720
-https://s21.nm-cdn4.top/files/81749329/1080p/1080p.m3u8?in=e7f65943108f115842c76d7f49dcc060::a52ae142578138b495737094d538e0dc::1738464741::ni
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://s21.nm-cdn4.top/files/81749329/a/6/6.m3u8"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://pstlive.run.place/19tovx3n/pstlive_840.key
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="ts840"  group-title="Spiritual" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",Shirdi Sai Baba
+http://pstlive.run.place/19tovx3n/pstlive_840.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.69.69.69 YGX/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
