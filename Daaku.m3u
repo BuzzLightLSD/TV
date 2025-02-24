@@ -1,5 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS",Disney Junior
+
 https://opplex-pstlive.vercel.app/opplex.m3u8?token=abcdefg&id=153175
 #EXTINF:-1 tvg-id="disneychannel.in" tvg-name="DISNEY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY HD
+
 https://opplex-pstlive.vercel.app/opplex.m3u8?token=abcdefg&id=167551
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="TELUGU D2H",Etv HD
+
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=abcdefg&id=250842
