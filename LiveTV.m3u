@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="IND: TG: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png", ETV Cinema
-https://starshare.org:443/live/Anish321/Anish321/9045.ts
 #EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND: TG: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg", ETV Telugu
 https://starshare.org:443/live/Anish321/Anish321/9017.ts
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="IND: TG: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png", ETV Cinema
+https://starshare.org:443/live/Anish321/Anish321/9045.ts
 #EXTINF:-1 tvg-id="etvlife.in" tvg-name="IND: TG: ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png", ETV Life
 https://starshare.org:443/live/Anish321/Anish321/9052.ts
 #EXTINF:-1 tvg-id="etvplus.in" tvg-name="IND: TG: ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png", ETV Plus
